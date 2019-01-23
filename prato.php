@@ -28,8 +28,6 @@
 					$prato_preco 		= $row['preco'];
 					$prato_calorias 	= $row['calorias'];
 				}
-			} else {
-				'Não há destaques';
 			}
 		}
 		?>
